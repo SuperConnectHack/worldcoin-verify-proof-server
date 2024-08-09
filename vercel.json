@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+        {
+            "destination": "/",
+            "source": "/(.*)"
+        }
+    ],
+    "version": 2
+}
